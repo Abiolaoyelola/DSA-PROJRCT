@@ -1,5 +1,6 @@
 # DSA-PROJRCT
-### A detailed Excel-based analytics project on Amazon product reviews, discounts, and pricing. Designed during my time at DSA Incubator, this project uses pivot tables, calculated fields, and interactive dashboards to extract actionable insights on product performance, category trends, customer engagement, and revenue opportunities.
+A detailed Excel-based analytics project on Amazon product reviews, discounts, and pricing. Designed during my time at DSA Incubator, this project uses pivot tables, calculated fields, and interactive dashboards to extract actionable insights on product performance, category trends, customer engagement, and revenue opportunities.
+### Objective: Analyze Amazon product and review data to derive business insights using pivot tables,calculated columns, and data visualizations.
 ## Project Context
 Client Name: RetailTech Insights
 Industry: E-commerce Analytics
@@ -51,4 +52,48 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 ## Final Task: Dashboard Creation
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your Creativity
+
+## Skills & Competencies Demonstrated
+Skill	How I Applied It
+Data Cleaning	Removed nulls, corrected inconsistent formats, trimmed text
+Data Aggregation	Used pivot tables and grouping to summarize key insights
+Excel Formulas	IF, COUNTIF, AVERAGEIFS, PROPER, calculated columns
+Visualization	Designed intuitive charts (bar, pie, line, donut, cards)
+Slicers & Cards	Enabled dynamic filtering and KPI display
+Business Reasoning	Drew conclusions based on data trends and business logic
+________________________________________
+💡 Business Insights (Summary)
+1.	High Discount ≠ High Rating: Many discounted items still received poor ratings. Price cuts alone won’t ensure customer satisfaction.
+2.	Most Reviewed Category: Electronics had the most reviews but also a wide range in satisfaction.
+3.	Revenue Optimization: Focus marketing efforts on mid-priced, highly rated products in "Home Kitchen" and "Accessories".
+4.	Product Opportunity: Products with moderate ratings but high volume reviews may benefit from improved quality or targeted feedback campaigns.
+5.	Outlier Products: A few products drive massive engagement. Promoting these further can help with cross-selling.
+________________________________________
+🔧 Tools & Environment
+•	Microsoft Excel
+
+o	Pivot Tables
+
+o	Data Visualizations (Bar, Line, Donut, Cards)
+
+o	Slicers & Filters
+
+o	Conditional Formatting
+
+o	Named Ranges & Table References
+________________________________________
+👨💻 About Me
+ABIOLA DORCAS OYELOLA
+🎓 B.Tech in Pure and Applied Mathematics | 📊 Data Analyst | 
+I’m passionate about simplifying data into impactful visuals and helping businesses make better decisions.
+This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
+________________________________________
+📫 Contact
+•	Email: oyelolaebun16@gmail.com
+•	Phone: +2348032062600
+•	LinkedIn: 
+________________________________________
+________________________________________
+⭐ GitHub Project Tip
+If you found this useful or inspiring, feel free to ⭐ this repo or use it for learning.
 
