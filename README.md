@@ -73,6 +73,17 @@ Use Power BI and calculated columns where necessary to answer the following:
 6.  Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
 7.  Total amount to be paid out per region and company-wide
     
+Analysed File
+
+https://drive.google.com/file/d/1aw0xKK-xPPdvnPK1dGnMyhgc2uYqalvl/view?usp=drive_link
+
+https://drive.google.com/file/d/1WTdpqch8BJ8-ERIF7Ah6lwxKPzxtrXFP/view?usp=drive_link
+
+https://drive.google.com/file/d/1Z1gb4o_iCE5nHQSh04In1RObuq6u3uFD/view?usp=drive_link
+
+https://drive.google.com/file/d/1vKjju7Py2C3djJZhG6CSGUuJYn6MptBg/view?usp=drive_link
+
+https://drive.google.com/file/d/1ULEJAN9MvORVrYi-HdFuCm41ibhkrwP0/view?usp=drive_link
 
 
 ## Skills & Competencies Demonstrated
