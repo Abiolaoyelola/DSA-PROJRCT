@@ -1,7 +1,11 @@
 # DSA-PROJRCT
-A detailed Excel-based analytics project on Amazon product reviews, discounts, and pricing. Designed during my time at DSA Incubator, this project uses pivot tables, calculated fields, and interactive dashboards to extract actionable insights on product performance, category trends, customer engagement, and revenue opportunities.
+A detailed Excel-based analytics project on Amazon product reviews, discounts, and pricing. And Palmora Group HR Analysis. Designed during my time at DSA Incubator, this project uses pivot tables,Power BI to calculated fields, and interactive dashboards to extract actionable insights on product performance, category trends, customer engagement, and revenue opportunities.
 
-###Objective: Analyze Amazon product and review data to derive business insights using pivot tables,calculated columns, and data visualizations.
+### Objective:
+Analyze Amazon product and review data to derive business insights using pivot tables,calculated columns, and data visualizations.
+
+Analyze Palmora Group HR using Power BI
+
 
 ## Project Context
 
@@ -55,6 +59,20 @@ Use pivot tables and calculated columns where necessary to answer the following:
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+    
+Use Power BI and calculated columns where necessary to answer the following: 
+1. What is the gender distribution in the organization? Distil to regions and departments
+2. Show insights on ratings based on gender
+3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
+4. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
+● Does Palmoria meet this requirement?
+● Show the pay distribution of employees grouped by a band of $10,000. For example:
+● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.?
+● Also visualize this by regions
+5. Calculate the amount to be paid as a bonus to individual employees
+6.  Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
+7.  Total amount to be paid out per region and company-wide
+    
 
 
 ## Skills & Competencies Demonstrated
@@ -93,6 +111,8 @@ o	Slicers & Filters
 o	Conditional Formatting
 
 o	Named Ranges & Table References
+
+. Power BI :
 ________________________________________
 ### 👨 About Me
 
