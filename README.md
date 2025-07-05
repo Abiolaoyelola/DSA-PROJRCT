@@ -11,14 +11,21 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 •	Columns: 16
 •	Source: Web-scraped Amazon product review data
 •	Each row represents: A unique product
-# Fields included:
+  Fields included:
 o	Product name
+
 o	Category
+
 o	Actual price & Discounted price
+
 o	Discount %
+
 o	Rating
+
 o	Number of Ratings (Rating Count)
+
 o	Review content (aggregated in some columns)
+
 o	Revenue potential fields (derived)
 
 ## Analysis Tasks
@@ -33,7 +40,7 @@ Use pivot tables and calculated columns where necessary to answer the following:
 8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
 9. What is the total potential revenue (actual_price × rating_count) by category?
 10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
-11. 11. How does the rating relate to the level of discount?
+11. How does the rating relate to the level of discount?
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
