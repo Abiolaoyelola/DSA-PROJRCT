@@ -1,2 +1,43 @@
 # DSA-PROJRCT
-A detailed Excel-based analytics project on Amazon product reviews, discounts, and pricing. Designed during my time at DSA Incubator, this project uses pivot tables, calculated fields, and interactive dashboards to extract actionable insights on product performance, category trends, customer engagement, and revenue opportunities.
+### A detailed Excel-based analytics project on Amazon product reviews, discounts, and pricing. Designed during my time at DSA Incubator, this project uses pivot tables, calculated fields, and interactive dashboards to extract actionable insights on product performance, category trends, customer engagement, and revenue opportunities.
+## Project Context
+Client Name: RetailTech Insights
+Industry: E-commerce Analytics
+Role: Junior Data Analyst
+Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers, Cards)
+
+## Dataset Description
+•	Total Records: 1,465
+•	Columns: 16
+•	Source: Web-scraped Amazon product review data
+•	Each row represents: A unique product
+# Fields included:
+o	Product name
+o	Category
+o	Actual price & Discounted price
+o	Discount %
+o	Rating
+o	Number of Ratings (Rating Count)
+o	Review content (aggregated in some columns)
+o	Revenue potential fields (derived)
+
+## Analysis Tasks
+Use pivot tables and calculated columns where necessary to answer the following:
+1. What is the average discount percentage by product category?
+2. How many products are listed under each category?
+3. What is the total number of reviews per category?
+4. Which products have the highest average ratings?
+5. What is the average actual price vs the discounted price by category?
+6. Which products have the highest number of reviews?
+7. How many products have a discount of 50% or more?
+8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
+9. What is the total potential revenue (actual_price × rating_count) by category?
+10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
+11. 11. How does the rating relate to the level of discount?
+12. How many products have fewer than 1,000 reviews?
+13. Which categories have products with the highest discounts?
+14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+## Final Task: Dashboard Creation
+Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your Creativity
+
