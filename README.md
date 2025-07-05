@@ -8,10 +8,14 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 
 ## Dataset Description
 •	Total Records: 1,465
+
 •	Columns: 16
+
 •	Source: Web-scraped Amazon product review data
+
 •	Each row represents: A unique product
-  Fields included:
+
+#### Fields included:
 o	Product name
 
 o	Category
